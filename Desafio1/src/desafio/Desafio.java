@@ -5,8 +5,9 @@ public class Desafio {
 
 	 public static void main(String[] args) {
 		 
-		 Scanner teclado = new Scanner(System.in);
-			int n = teclado.nextInt();
+		 System.out.println("digite o tamanho da escada : ");
+		 Scanner scan = new Scanner(System.in);
+			int n = scan.nextInt();
 			int m = n;
 			
 		
