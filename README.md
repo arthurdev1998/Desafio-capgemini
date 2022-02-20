@@ -1,6 +1,6 @@
 COMO FOI FEITO : 
 
-As questões foram feitas utilizando a linguagem JAVA a ide Eclipse 
+As questões foram feitas utilizando a linguagem JAVA e a ide Eclipse 
 
 
 
